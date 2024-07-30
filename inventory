@@ -1,2 +1,1 @@
-target ansible_host=172.25.0.128 ansible_connection=ssh ansible_user=jenkins ansible_ssh_pass=jenkins
-target1 ansible_host=192.168.18.248 ansible_connection=ssh ansible_user=jenkins ansible_ssh_pass=jenkins
+target ansible_host=172.00.0.00 ansible_connection=ssh ansible_user=User ansible_ssh_pass=User_pass
